@@ -202,6 +202,6 @@ DB_DIALECT=postgres
 - Get one player with their team:```GET http://localhost:3000/getonePlayerwithTeam/:id ```
 
  
-### Contribution
+# Contribution
 
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to open a pull request.
